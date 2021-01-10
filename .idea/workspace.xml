@@ -11,9 +11,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="493b9db3-d98a-4664-afe0-ca19454f6687" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Digital and stop watch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/timer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scientific calc.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/timer.py" beforeDir="false" afterPath="$PROJECT_DIR$/timer.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +52,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="Python.timer">
+  <component name="RunManager" selected="Python.calculator">
     <configuration name="Digital and stop watch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="10projects_1-10" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -74,6 +75,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="10projects_1-10" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/calculator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="10projects_1-10" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -88,6 +111,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scientific calc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="10projects_1-10" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scientific calc.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,6 +187,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.calculator" />
+        <item itemvalue="Python.scientific calc" />
         <item itemvalue="Python.timer" />
         <item itemvalue="Python.Digital and stop watch" />
         <item itemvalue="Python.unit_converter" />
@@ -165,7 +212,13 @@
       <workItem from="1609719058779" duration="2255000" />
       <workItem from="1609762176623" duration="3726000" />
       <workItem from="1609787454288" duration="2714000" />
-      <workItem from="1609795431176" duration="1085000" />
+      <workItem from="1609795431176" duration="1461000" />
+      <workItem from="1609842014308" duration="5377000" />
+      <workItem from="1609892038374" duration="4408000" />
+      <workItem from="1609949836546" duration="612000" />
+      <workItem from="1610151998211" duration="3608000" />
+      <workItem from="1610276082021" duration="2363000" />
+      <workItem from="1610278790762" duration="2756000" />
     </task>
     <servers />
   </component>
@@ -184,40 +237,6 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="WindowStateProjectService">
-    <state width="1493" height="215" key="GridCell.Tab.0.bottom" timestamp="1609796524877">
-      <screen x="0" y="0" width="1536" height="832" />
-    </state>
-    <state width="1493" height="215" key="GridCell.Tab.0.bottom/0.0.1536.832@0.0.1536.832" timestamp="1609796524877" />
-    <state width="1493" height="215" key="GridCell.Tab.0.center" timestamp="1609796524877">
-      <screen x="0" y="0" width="1536" height="832" />
-    </state>
-    <state width="1493" height="215" key="GridCell.Tab.0.center/0.0.1536.832@0.0.1536.832" timestamp="1609796524877" />
-    <state width="1493" height="215" key="GridCell.Tab.0.left" timestamp="1609796524877">
-      <screen x="0" y="0" width="1536" height="832" />
-    </state>
-    <state width="1493" height="215" key="GridCell.Tab.0.left/0.0.1536.832@0.0.1536.832" timestamp="1609796524877" />
-    <state width="1493" height="215" key="GridCell.Tab.0.right" timestamp="1609796524877">
-      <screen x="0" y="0" width="1536" height="832" />
-    </state>
-    <state width="1493" height="215" key="GridCell.Tab.0.right/0.0.1536.832@0.0.1536.832" timestamp="1609796524877" />
-    <state width="1493" height="264" key="GridCell.Tab.1.bottom" timestamp="1609627423476">
-      <screen x="0" y="0" width="1536" height="832" />
-    </state>
-    <state width="1493" height="264" key="GridCell.Tab.1.bottom/0.0.1536.832@0.0.1536.832" timestamp="1609627423476" />
-    <state width="1493" height="264" key="GridCell.Tab.1.center" timestamp="1609627423476">
-      <screen x="0" y="0" width="1536" height="832" />
-    </state>
-    <state width="1493" height="264" key="GridCell.Tab.1.center/0.0.1536.832@0.0.1536.832" timestamp="1609627423476" />
-    <state width="1493" height="264" key="GridCell.Tab.1.left" timestamp="1609627423476">
-      <screen x="0" y="0" width="1536" height="832" />
-    </state>
-    <state width="1493" height="264" key="GridCell.Tab.1.left/0.0.1536.832@0.0.1536.832" timestamp="1609627423476" />
-    <state width="1493" height="264" key="GridCell.Tab.1.right" timestamp="1609627423476">
-      <screen x="0" y="0" width="1536" height="832" />
-    </state>
-    <state width="1493" height="264" key="GridCell.Tab.1.right/0.0.1536.832@0.0.1536.832" timestamp="1609627423476" />
-  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -230,8 +249,10 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/10projects_1_10$Digital_and_stop_watch.coverage" NAME="Digital and stop watch Coverage Results" MODIFIED="1609796473000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/10projects_1_10$timer.coverage" NAME="timer Coverage Results" MODIFIED="1609796524868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/10projects_1_10$unit_converter.coverage" NAME="unit_converter Coverage Results" MODIFIED="1609601891279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/10projects_1_10$scientific_calc.coverage" NAME="scientific calc Coverage Results" MODIFIED="1610276538171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/10projects_1_10$calculator.coverage" NAME="calculator Coverage Results" MODIFIED="1610280919457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/10projects_1_10$unit_converter.coverage" NAME="unit_converter Coverage Results" MODIFIED="1610152045262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/10projects_1_10$timer.coverage" NAME="timer Coverage Results" MODIFIED="1610276326418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/10projects_1_10$Digital_and_stop_watch.coverage" NAME="Digital and stop watch Coverage Results" MODIFIED="1610152064928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
