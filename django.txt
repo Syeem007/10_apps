@@ -1,0 +1,10 @@
+mkdir django
+cd django
+pip install virtualenv
+virtualenv .
+dir
+.\scripts\activate
+mkdir django_app
+pip install django
+pip freeze
+django-admin.py start project todo
